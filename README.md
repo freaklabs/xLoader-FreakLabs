@@ -11,4 +11,4 @@ xLoader-FreakLabs is a utility to program or flash HEX file onto FreakLabs board
 5. Select right baud rate in case of WildLogger it's 57600
 6. Finally hit Upload Button
 
-<img src="https://github.com/freaklabs/xLoader-FreakLabs/blob/master/xloader_atmega328.jpg" alt="Girl in a jacket" align="center" width="400" height="300">
+<img src="https://github.com/freaklabs/xLoader-FreakLabs/blob/master/xloader_wildlogger.jpg" alt="XLoader WildLogger" align="center" width="400" height="300">
